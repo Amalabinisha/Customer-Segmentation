@@ -103,6 +103,3 @@ K-Means clustering successfully grouped customers into meaningful segments based
 
 ---
 
-## Author
-Binisha  
-M.Sc. Data Science
